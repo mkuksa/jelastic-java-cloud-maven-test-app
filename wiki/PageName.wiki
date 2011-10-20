@@ -8,7 +8,7 @@ Demo application for Maven in Jelastic
 
 = Details =
 
-This is a simple "Hello World" application for using in Jelastic. All you need it's just to use this link https://jelastic-java-cloud-maven-test-app.googlecode.com/svn/branches/dev/WebAppMaven/  in Jelastic for Maven.
+This is a simple "Hello World" application for using in Jelastic. All you need it's just to use this link https://jelastic-java-cloud-maven-test-app.googlecode.com/svn/branches/dev/WebAppMaven/  and credentials in Jelastic for Maven.
 
 
 =Repository=
