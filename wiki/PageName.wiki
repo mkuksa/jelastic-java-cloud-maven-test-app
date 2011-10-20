@@ -23,5 +23,5 @@ password : YN5pb6gF6Xa5
 
 =Help=
 
-For detailed information visit our docs at: <br>
+For detailed information how to use Maven in Jelastic visit our docs at: <br>
 http://jelastic.com/docs/maven-cloud-hosting-in-jelastic
