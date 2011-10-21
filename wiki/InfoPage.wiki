@@ -1,0 +1,27 @@
+#summary One-sentence summary of this page.
+#labels jelastic,java,maven,cloudhosting
+
+= Introduction =
+
+Demo application for Maven in Jelastic
+
+
+= Details =
+
+This is a simple "Hello World" application for using in Jelastic. All you need it's just to use this link https://jelastic-java-cloud-maven-test-app.googlecode.com/svn/branches/dev/WebAppMaven/  and credentials in Jelastic for Maven.
+
+
+=Repository=
+
+https://jelastic-java-cloud-maven-test-app.googlecode.com/svn/branches/dev/WebAppMaven/
+
+=Credentials=
+
+login : a.lias.hivext@gmail.com <br>
+password : YN5pb6gF6Xa5
+
+
+=Help=
+
+For detailed information how to use Maven in Jelastic visit our docs at: <br>
+http://jelastic.com/docs/maven-cloud-hosting-in-jelastic
