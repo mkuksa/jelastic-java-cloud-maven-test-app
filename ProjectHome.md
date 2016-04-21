@@ -1,0 +1,1 @@
+jelastic-java-cloud-maven-test-app
